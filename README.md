@@ -3,9 +3,9 @@
 I'm a computer science studying 💻, living in Brazil and have a 22 years old and current i work with fullstack developer using Javascript, HTML, Bootstrap and CSS, PHP.
 <br>
 <br>
-I'm love code anything ❤️
+I'm love programming anything ❤️
 <br>
-I'm like play games 🎮 and drive my motocycle 🏍
+I'm like play video games 🎮 and drive my motocycle 🏍
 <br>
 
 <h4>🔥 Languages and Tools Skills</h4>
